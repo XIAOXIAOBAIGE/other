@@ -35,7 +35,7 @@ export default {
         { radius: '41px', background: '#f6c66f', pointer: true },
         {
           radius: '35px', background: '#ffdea0',
-          imgs: [{ src: require('@/assets/images/activity.png'), width: '65%', top: '-50%' }]
+          imgs: [{ src: require('@/assets/images/bigBottom.png'), width: '65%', top: '-50%' }]
         }
       ],
     }
